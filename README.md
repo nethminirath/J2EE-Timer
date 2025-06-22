@@ -1,0 +1,1 @@
+J2EE-Timer is a Java EE project that demonstrates scheduled task execution using the EJB Timer Service. It covers both programmatic and automatic timer creation with stateless session beans, timer callbacks, and servlet integration, serving as a practical guide for implementing reliable and scalable background processing in enterprise applications.
